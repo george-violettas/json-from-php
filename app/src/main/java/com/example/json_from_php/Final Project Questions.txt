@@ -1,0 +1,18 @@
+
+BASIC PROJECT GUIDELINES
+1. Connect to the php database
+2. Create a button to get data from the dB (name, Id, etc.)
+3. present this data to a list in the phone
+4. create another screen to get a full line of data from the user
+5. create a button to insert the above data to the php database
+6. create a screen with an input text to search directly into the php db and
+    fetch the results to a list on the phone
+7. create a button to search into the phones database. the results should be
+    send via another button to the sql database
+8. All the above should have different screens. All of them should be
+accessible via buttons from the main screen
+
+9. Finally, the student have to create a button to fully synchronize the two databases:
+This can be done in various ways. Every student has to decide how to do that.
+For example, one could decide to send data from local to remote, then delete the local and bring the remote dB over.
+Or one can compare each dB line and decide whether to copy/update/delete

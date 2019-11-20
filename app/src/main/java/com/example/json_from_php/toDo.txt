@@ -1,0 +1,15 @@
+
+Students have to do the following:
+1. Connect to the php database
+2. Create a button to get data from the db (name, Id, etc.)
+3. present this data to a list in the phone
+4. create another screen to get a full line of data from the user
+5. create a button to insert the above data to the php database
+6. create a screen with an input text to search directly into the php db and
+    fetch the results to a list on the phone
+7. create a button to search into the phones database. the results should be
+    send via another button to the sql database
+8. All the above should have different screens. All of them should be
+accesible via buttons from the main screen
+
+9. Optional (extra marks): create a button to fully syncronize the two databases
