@@ -10,7 +10,7 @@ import org.json.JSONArray;
 public class MainActivity extends AppCompatActivity {
     Button bttn_sqlConn;
     TextView textview;
-    final String fetch = "http://10.180.0.62:8080/sqli/fetch2json.php";
+    final String fetch = "http://192.168.1.144:8080/sqli/fetch2json.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
